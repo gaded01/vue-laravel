@@ -13,7 +13,7 @@ npm update
 npm run dev
 ```
 
-### Go to vue project folder and update composer
+### Go to laravel project folder and update composer
 
 ```bash
 composer update 
