@@ -1,4 +1,4 @@
-# Vuejs and Laravel Assessment
+# Vuejs and Laravel 
 
 ### Clone project from git
 
